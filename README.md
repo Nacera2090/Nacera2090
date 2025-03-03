@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Nacera2090/Nacera2090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Nacera**, and here's a bit about me 👇
 
-Here are some ideas to get you started:
+- 🔭 **Currently, I am training to become a web and mobile web developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 My GitHub Stats
+
+![Nacera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nacera2090&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
+Thank you for visiting my profile!
+
